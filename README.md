@@ -66,5 +66,5 @@
 📧 Email: salanatinnathaly@gmail.com  
 📞 Contact: +63 976 230 4134  
 🌐 Portfolio: [Winx|Click here to view](https://salanatinnathaly.wixsite.com/salanatin)  
-🌐 Portfolio: [Hard Coded | Click here to view](https://salanatinnathaly.wixsite.com/salanatin)https://aly071.github.io/aly071-v1/
+🌐 Portfolio: [Hard Coded | Click here to view](https://aly071.github.io/aly071-v1/)
 💼 LinkedIn: [linkedin.com/in/nathaly-pearl-s-08396a347](https://www.linkedin.com/in/nathaly-pearl-s-08396a347)
