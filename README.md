@@ -6,7 +6,9 @@
 ---
 
 ## 🌱 Currently Learning
+
 - META Front-end Development  
+
 ---
 
 ## 🤝 Looking To
@@ -19,7 +21,7 @@
 
 ## 🚀 Tech Stack
 
-**Languages & Technologies**  
+### **Languages & Technologies**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -27,25 +29,25 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frameworks & Platforms**  
+### **Frameworks & Platforms**  
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
-**Database**  
+### **Database**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Version Control & CI/CD**  
+### **Version Control & CI/CD**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-**Project & Design Tools**  
+### **Project & Design Tools**  
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 
-**Data Tools**  
+### **Data Tools**  
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
@@ -59,12 +61,13 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=aly071&theme=tokyonight&hide_border=false)
 
-
 ---
 
 ## 📫 Let's Connect!
+
 📧 Email: salanatinnathaly@gmail.com  
 📞 Contact: +63 976 230 4134  
-🌐 Portfolio: [Winx|Click here to view](https://salanatinnathaly.wixsite.com/salanatin)  
-🌐 Portfolio: [Hard Coded | Click here to view](https://aly071.github.io/aly071-v1/)
+🌐 Portfolio 1: [Winx | View here](https://salanatinnathaly.wixsite.com/salanatin)  
+🌐 Portfolio 2: [Hard-Coded | View here](https://aly071.github.io/aly071-v1/)  
 💼 LinkedIn: [linkedin.com/in/nathaly-pearl-s-08396a347](https://www.linkedin.com/in/nathaly-pearl-s-08396a347)
+
