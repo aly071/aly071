@@ -1,10 +1,10 @@
 # 💫 About Me:
 # 👋 Hi, I'm Nathaly Pearl Salanatin!<br><br>
-🎓 Computer Science Graduate | Technological University of the Philippines – Manila<br>
+🎓 Full-Stack Web Developer | Technological University of the Philippines – Manila<br>
 💻 Passionate about full-stack web development, UI/UX design, and building meaningful systems that make work easier and more intuitive.<br><br>
 
 ## 🌱 Currently Learning<br><br>
-- META Front-end Development<br>
+- Ruby on Rails <br>
 - Advanced IT Support & Networking<br><br>
 
 ## 🤝 Looking To<br><br>
